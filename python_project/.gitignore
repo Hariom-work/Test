@@ -1,0 +1,21 @@
+**/migrations/**
+!**/migrations
+!**/migrations/__init__.py
+**/__pycache__/
+!static/
+media/
+# Ignore virtual environments
+venv/
+env/
+
+**env
+env/
+env\
+env\Scripts
+
+
+passenger_wsgi.py
+stderr.log
+tmp/
+logs/
+**/__pycache__/
